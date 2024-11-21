@@ -23,13 +23,21 @@ Moreover, I have spearheaded numerous projects in NLP engineering, delving deep 
 Furthermore, my expertise extends to various projects in the realm of machine learning, encompassing both supervised and unsupervised problems. Additionally, I have undertaken several ventures in computer vision, demonstrating a multifaceted skill set.
 ## React Project 
 * ### [Library Management App](https://aleenalhussain.github.io/Library-Management-App/)
-   Milestone Project: Developed using React.js and MUI, this app simplifies book borrowing with the following features
+   Milestone Project: Developed using React.js and MUI, this app simplifies book borrowing with the several features
 * ### [Social Media feed App](https://aleenalhussain.github.io/Social-Media-Feed-App/)
 Create a simple Social Media feed app displaying list of posts with an interaction to view the post individually with related comments.
 with use Free APIs to use and fetch data and use React Improve performance techniques
 - Memoization with React.memo and useMemo
 - Lazy loading components and Suspense
 - Code splitting
+* ### [Content Management System](https://aleenalhussain.github.io/Content-Management-System/)
+  building a CMS Dashboard for a Mobile Company using React.js and MUI! Here's what's inside:
+  ✨ Pages & Features:
+📱 Devices: Manage mobiles (List, Create, Update, Delete).
+🔍 Accessories: Link accessories to devices with easy Create/Update/Delete functionalities.
+💡 Offers: Create or modify device offers, featuring multiple accessories, offer price, and end date.
+✨ Dark/Light Mode Switcher
+🔒 Global Authentication State
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
