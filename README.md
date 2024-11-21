@@ -38,6 +38,8 @@ with use Free APIs to use and fetch data and use React Improve performance techn
 💡 Offers: Create or modify device offers, featuring multiple accessories, offer price, and end date.
 ✨ Dark/Light Mode Switcher
 🔒 Global Authentication State
+* ### [Personal Budget Management App](https://aleenalhussain.github.io/Personal-Budget-Management/)
+* I’m working on a Personal Budget Management App using React.js, MUI, Redux, and React Router v6! This app empowers users to track their finances, manage transactions, and gain insights with visual reports
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
