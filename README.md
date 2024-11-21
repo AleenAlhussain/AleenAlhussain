@@ -40,6 +40,17 @@ with use Free APIs to use and fetch data and use React Improve performance techn
 🔒 Global Authentication State
 * ### [Personal Budget Management App](https://aleenalhussain.github.io/Personal-Budget-Management/)
 * I’m working on a Personal Budget Management App using React.js, MUI, Redux, and React Router v6! This app empowers users to track their finances, manage transactions, and gain insights with visual reports
+* ### [Hospital Management System App](https://aleenalhussain.github.io/Hospital-Management-System/)
+ building a Hospital Management System to transform healthcare operations!
+Key Features:
+🔹 Department Management: Create & organize hospital departments and their rooms.
+🔹 Room Management: Track room statuses (vacant, occupied, maintenance) & assign them to patients.
+🔹 Doctor Management: Manage doctor schedules, specialties, and shifts.
+🔹 Hospital Services: Provide seamless access to imaging, labs, and other medical services.
+🔹 Patient Admission & Discharge: Simplify patient registration, room assignments, and service allocation.
+🔹 Surgical Operation Scheduling: Plan surgeries efficiently with team & resource allocation.
+🔹 Room Availability Tracking: Real-time updates on room statuses across departments.
+
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
