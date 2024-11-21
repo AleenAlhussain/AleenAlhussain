@@ -1,11 +1,3 @@
-👋 Hi, I’m Aleen Alhussain.
-
-
-
-📫 How to reach me: Feel free to reach out to me via email at [aleenalhussain11@gmail.com](mailto:aleenalhussain11@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aleen-alhussain-361b4818a/).
-
-
-⚡ Fun fact: I enjoy exploring new experince and trying out  in my free time.
 <h1 align="center">Hi there 👋! I'm Aleen Alhussain</h1>
 
 <h3 align="center"><i>Front-End Developer and AI Engenering</i></h3>
