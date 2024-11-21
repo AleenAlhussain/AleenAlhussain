@@ -22,9 +22,17 @@ Moreover, I have spearheaded numerous projects in NLP engineering, delving deep 
 
 Furthermore, my expertise extends to various projects in the realm of machine learning, encompassing both supervised and unsupervised problems. Additionally, I have undertaken several ventures in computer vision, demonstrating a multifaceted skill set.
 
+## Weather Project
+* ### [Weather](https://aleenalhussain.github.io/weather-app/)
+  The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
 
-
-
+## Projects for SEF Academy
+* ### [Architect](https://aleenalhussain.github.io/Architect-Project/)
+    Simple training project using html,css without responsive
+* ### [Grocery](https://aleenalhussain.github.io/SEF-Second-Project/)
+    Grocery project using html5,css3 without responsive
+* ### [Travel](https://aleenalhussain.github.io/SEF-ThirdProject/)
+    Travel project using bootstrap with responsive design
 <!---
 AleenAlhussain/AleenAlhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
