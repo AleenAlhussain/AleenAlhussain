@@ -21,7 +21,9 @@ My professional journey encompasses a diverse array of projects in analytics eng
 Moreover, I have spearheaded numerous projects in NLP engineering, delving deep into generation models. For comprehensive insights into my projects and solutions, I invite you to explore the NLP project section.
 
 Furthermore, my expertise extends to various projects in the realm of machine learning, encompassing both supervised and unsupervised problems. Additionally, I have undertaken several ventures in computer vision, demonstrating a multifaceted skill set.
-
+## React Project 
+* ### [Library Management App](https://aleenalhussain.github.io/Library-Management-App/)
+   Milestone Project: Developed using React.js and MUI, this app simplifies book borrowing with the following features
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
