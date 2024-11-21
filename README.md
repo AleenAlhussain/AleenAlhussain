@@ -25,31 +25,31 @@ Furthermore, my expertise extends to various projects in the realm of machine le
 * ### [Library Management App](https://aleenalhussain.github.io/Library-Management-App/)
    Milestone Project: Developed using React.js and MUI, this app simplifies book borrowing with the several features
 * ### [Social Media feed App](https://aleenalhussain.github.io/Social-Media-Feed-App/)
-Create a simple Social Media feed app displaying list of posts with an interaction to view the post individually with related comments.
-with use Free APIs to use and fetch data and use React Improve performance techniques
-- Memoization with React.memo and useMemo
-- Lazy loading components and Suspense
-- Code splitting
+   Create a simple Social Media feed app displaying list of posts with an interaction to view the post individually with related comments.
+   with use Free APIs to use and fetch data and use React Improve performance techniques
+      - Memoization with React.memo and useMemo
+      - Lazy loading components and Suspense
+      - Code splitting
 * ### [Content Management System](https://aleenalhussain.github.io/Content-Management-System/)
-  building a CMS Dashboard for a Mobile Company using React.js and MUI! Here's what's inside:
-  ✨ Pages & Features:
-📱 Devices: Manage mobiles (List, Create, Update, Delete).
-🔍 Accessories: Link accessories to devices with easy Create/Update/Delete functionalities.
-💡 Offers: Create or modify device offers, featuring multiple accessories, offer price, and end date.
-✨ Dark/Light Mode Switcher
-🔒 Global Authentication State
+     building a CMS Dashboard for a Mobile Company using React.js and MUI! Here's what's inside:
+     ✨ Pages & Features:
+   📱 Devices: Manage mobiles (List, Create, Update, Delete).
+   🔍 Accessories: Link accessories to devices with easy Create/Update/Delete functionalities.
+   💡 Offers: Create or modify device offers, featuring multiple accessories, offer price, and end date.
+   ✨ Dark/Light Mode Switcher
+   🔒 Global Authentication State
 * ### [Personal Budget Management App](https://aleenalhussain.github.io/Personal-Budget-Management/)
-* I’m working on a Personal Budget Management App using React.js, MUI, Redux, and React Router v6! This app empowers users to track their finances, manage transactions, and gain insights with visual reports
+   I’m working on a Personal Budget Management App using React.js, MUI, Redux, and React Router v6! This app empowers users to track      their finances, manage transactions, and gain insights with visual reports
 * ### [Hospital Management System App](https://aleenalhussain.github.io/Hospital-Management-System/)
- building a Hospital Management System to transform healthcare operations!
-### Key Features:
-- Department Management: Create & organize hospital departments and their rooms.
-- Room Management: Track room statuses (vacant, occupied, maintenance) & assign them to patients.
-- Doctor Management: Manage doctor schedules, specialties, and shifts.
-- Hospital Services: Provide seamless access to imaging, labs, and other medical services.
-- Patient Admission & Discharge: Simplify patient registration, room assignments, and service allocation.
-- Surgical Operation Scheduling: Plan surgeries efficiently with team & resource allocation.
-- Room Availability Tracking: Real-time updates on room statuses across departments.
+   building a Hospital Management System to transform healthcare operations!
+   #### Key Features:
+   - Department Management: Create & organize hospital departments and their rooms.
+   - Room Management: Track room statuses (vacant, occupied, maintenance) & assign them to patients.
+   - Doctor Management: Manage doctor schedules, specialties, and shifts.
+   - Hospital Services: Provide seamless access to imaging, labs, and other medical services.
+   - Patient Admission & Discharge: Simplify patient registration, room assignments, and service allocation.
+   - Surgical Operation Scheduling: Plan surgeries efficiently with team & resource allocation.
+   - Room Availability Tracking: Real-time updates on room statuses across departments.
 
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
