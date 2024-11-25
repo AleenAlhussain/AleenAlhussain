@@ -52,7 +52,13 @@ Furthermore, my expertise extends to various projects in the realm of machine le
    - Room Availability Tracking: Real-time updates on room statuses across departments.
 
 * ### [Flipping Cards](https://aleenalhussain.github.io/Flipping-Cards-Guessing-Game/)
-  Create an interactive card-matching game using HTML, CSS, JavaScript, and Tailwind CSS with Extra Features 
+  Create an interactive card-matching game using HTML, CSS, JavaScript, and Tailwind CSS with Extra Features
+* ### [Landing Page](https://aleenalhussain.github.io/landing-page/)
+ Make a custom fully responsive website landing page using html,css,javaScript
+ with Note: 
+ 1. Mobile responsive
+ 2. Using Bootstrap
+ 3. Partners section should be a functional slider
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
