@@ -59,7 +59,16 @@ Furthermore, my expertise extends to various projects in the realm of machine le
  1. Mobile responsive
  2. Using Bootstrap
  3. Partners section should be a functional slider
-## Weather Project
+* ### [Url Shorting Landing Page](https://aleenalhussain.github.io/Url-Shorting-Landing-Page/)
+ a simple and user-friendly platform where users can quickly convert long, complex web links into short, shareable URLs ,using Html,Css,Js,Api
+ ### Features Section:
+1. Highlight the key benefits and features of the URL shortener.
+2. Easy to Use: Create short links in seconds with a user-friendly interface.
+3. Customizable URLs: Add custom aliases to your links for better branding.
+4. Analytics: Track link clicks, locations, and referrers with built-in analytics.
+5. Secure: Protect your links with password protection or expiration dates.
+6. Integration Options: Easily integrate with apps, websites, or APIs.
+
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
 
