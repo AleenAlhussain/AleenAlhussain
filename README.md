@@ -50,7 +50,7 @@ Furthermore, my expertise extends to various projects in the realm of machine le
    - Patient Admission & Discharge: Simplify patient registration, room assignments, and service allocation.
    - Surgical Operation Scheduling: Plan surgeries efficiently with team & resource allocation.
    - Room Availability Tracking: Real-time updates on room statuses across departments.
-## Flipping Cards Guessing Game
+
 * ### [Flipping Cards](https://aleenalhussain.github.io/Flipping-Cards-Guessing-Game/)
   Create an interactive card-matching game using HTML, CSS, JavaScript, and Tailwind CSS with Extra Features 
 ## Weather Project
