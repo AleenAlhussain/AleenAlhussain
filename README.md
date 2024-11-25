@@ -50,7 +50,9 @@ Furthermore, my expertise extends to various projects in the realm of machine le
    - Patient Admission & Discharge: Simplify patient registration, room assignments, and service allocation.
    - Surgical Operation Scheduling: Plan surgeries efficiently with team & resource allocation.
    - Room Availability Tracking: Real-time updates on room statuses across departments.
-
+## Flipping Cards Guessing Game
+* ### [Flipping Cards](https://aleenalhussain.github.io/Flipping-Cards-Guessing-Game/)
+  Create an interactive card-matching game using HTML, CSS, JavaScript, and Tailwind CSS with Extra Features 
 ## Weather Project
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
