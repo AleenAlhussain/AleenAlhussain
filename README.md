@@ -71,7 +71,14 @@ Furthermore, my expertise extends to various projects in the realm of machine le
 
 * ### [Weather](https://aleenalhussain.github.io/weather-app/)
   The Weather App is a beautifully designed, user-friendly web application that provides real-time weather updates for any location worldwide. Built using HTML, CSS, and JavaScript, this app is perfect for users who want quick and accurate weather information with a stunning visual experience.
-
+* ### [Quiz App](https://aleenalhussain.github.io/Quiz-Application/)
+   Our quiz app is a dynamic platform designed to make learning fun and efficient. Built using HTML, CSS, JavaScript, and JSON, it offers a seamless and interactive user experience with real-time feedback and grading.
+* ### [HR Dashboard Website](https://aleenalhussain.github.io/HR-dashboard-website/)
+    Our HR dashboard is designed to simplify and enhance employee management, providing HR professionals with an intuitive and visually appealing interface. Built with modern web technologies, the dashboard ensures efficiency, responsiveness, and usability.
+* ### [IPTV Landing Page](https://aleenalhussain.github.io/IPTV-Landing-Page/)
+  Our IPTV landing page is designed using a blend of cutting-edge tools to ensure a seamless and visually appealing experience for our users.
+* ### [Lavender-Store](https://aleenalhussain.github.io/Lavender-Store/)
+  Our website is carefully crafted to capture the essence of lavender's elegance and charm, providing a seamless and delightful shopping journey for our customers. Built with a combination of modern web technologies, our store reflects beauty, functionality, and accessibility.
 ## Projects for SEF Academy
 * ### [Architect](https://aleenalhussain.github.io/Architect-Project/)
     Simple training project using html,css without responsive
